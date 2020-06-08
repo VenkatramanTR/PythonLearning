@@ -8,4 +8,4 @@ for i in x:
         print(i)
         break
 else:
-    print("not divisible by 5") # no value is divisible by 5 so printing the else block of for
+    print("not divisible by 5 at all") # no value is divisible by 5 so printing the else block of for
